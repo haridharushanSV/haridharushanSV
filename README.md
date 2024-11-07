@@ -86,5 +86,4 @@
 
 <!-- Centering GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haridharushansv&" alt="haridharushansv" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haridharushanSV&theme=dark&border_radius=4.7&hide_longest_streak=true" alt="GitHub Streak" /></a></div>
