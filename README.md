@@ -86,4 +86,9 @@
 
 <!-- Centering GitHub Stats -->
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haridharushanSV&theme=github-dark&border_radius=4.7&card_width=504&hide_longest_streak=true" alt="GitHub Streak" /></a></div>
+<a href="https://git.io/streak-stats">
+  <div style="border: 2px solid white; border-radius: 4.7px; padding: 5px; display: inline-block;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=haridharushanSV&theme=github-dark&border_radius=4.7&card_width=504&hide_longest_streak=true" alt="GitHub Streak" />
+  </div>
+</a>
+</div>
