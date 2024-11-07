@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haridharushansv&label=Profile%20views&color=0e75b6&style=flat" alt="haridharushansv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haridharushansv" alt="haridharushansv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/haridharushan" target="blank"><img src="https://img.shields.io/twitter/follow/haridharushan?logo=twitter&style=for-the-badge" alt="haridharushan" /></a> </p>
-
 - 🌱 I’m currently learning **Dart**
 
 - 💬 Ask me about **vue**
