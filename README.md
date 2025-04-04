@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haridharushansv&label=Profile%20views&color=0e75b6&style=flat" alt="haridharushansv" /> </p>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about **Vue.js**
 - 📫 How to reach me: **svharisaravanan@gmail.com**
 
